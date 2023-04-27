@@ -1,0 +1,1 @@
+# localStorageCrudFS06
